@@ -9,10 +9,12 @@ Check "Rapor.pdf" where in the "Report & Output" folder if you want to know deve
 
 ## Project Summarize
 Overview:
+
 	There is a matrix which is each cell have reward point or penalty points (obstacle).
 	The user writes	Starting point and ending point thought consel input.
 	Your spy learns most valuable path with Q learning Path planing algrithm.
 Tasks:
+
 	Create random map have random dimantion. 
 	Fill the cells with reward or obstacle (- reward). 
 	Write the map to txt file.(You can find this file as "engel.txt" in the "Project Source" Folder.)
